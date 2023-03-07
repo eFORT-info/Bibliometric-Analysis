@@ -1,1 +1,1 @@
-Bibliometric Analysis Toolbox
+Simple tools to facilitate Bibliometric analysis
